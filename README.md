@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Projeto Dark e Light Mode
+
+Projeto React que muda o estado da aplicação de Light para Dark mode, utilizando o Hook useState.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
